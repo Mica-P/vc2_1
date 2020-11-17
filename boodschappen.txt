@@ -3,8 +3,11 @@ Pizza:
 - Pizzadeeg
 - Salami
 - Mozarella
+- Rucola
 
 Ontbijt:
 - Eieren
 - Brood
 - Boter 
+- Crossants
+- Sinaasappelsap
