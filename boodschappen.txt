@@ -3,6 +3,7 @@ Pizza:
 - Pizzadeeg
 - Salami
 - Mozarella
+- Normale Kaas
 - Rucola
 
 Ontbijt:
